@@ -35,6 +35,5 @@ class MerchantController extends Controller
         ];
 
         return response()->json($response);
-        // TODO: Complete this method
     }
 }
